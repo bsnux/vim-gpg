@@ -10,4 +10,6 @@ Add following line to your [Vundle](https://github.com/gmarik/vundle) file:
 
     Bundle 'bsnux/vim-gpg'
 
-If you're using [sp13](http://vim.spf13.com), you can use your **.vimrc.bundles.local** file.
+If you're using [spf13](http://vim.spf13.com), you can use your **.vimrc.bundles.local** file.
+
+Don't forget to run **:BundleInstall** for installing this plugin.
